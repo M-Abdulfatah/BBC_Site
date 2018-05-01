@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+#top-bar{
+    margin: 0 auto;
+    width: 1055px;
+    height: 40px;
+}
+.top-bar-section{
+    float: left;
+    border-left: 1px #cccccc solid;
+    height: 100%;
+}
+.top-bar-menu{
+    font-weight: bold;
+    font-size: 90%;
+    padding-left: 15px ;
+    padding-right: 15px ;
+}
+#logo{
+    margin-top: 5px;
+    margin-right: 5px;
+    width: 100px;
+    float: left;
+}
+#sign-in-img{
+    margin: 11px 15px;
+    width: 25px;
+    float: left;
+}
+#sign-in-text{
+    font-weight: bold ;
+    font-size: 90%;
+    position: relative;
+    top: 14px;
+    padding-right: 50px;
+}
+#bell-div{
+    float: left;
+}
+#wigll-line-img{
+    float: left;
+    height: 40px;
+}
+#bell-img{
+    width: 25px;
+    margin: 9px 10px;
+}
+#search-bar{
+    margin: 5px 0px 5px 5px;
+    background-color: #E3E3E3;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    float: left;
+}
+#magnifying-glass{
+    margin: 5px 0px 5px 0px;
+    height: 26px;
+    border-bottom-right-radius:5px;
+    border-top-right-radius:5px;
+}
